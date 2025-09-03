@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mike
 
-> Facilities BIM Coordinator by day, Volunteer Firefighter by night and sometimes day too.
+> Facilities BIM Coordinator by day, Volunteer Firefighter 👨‍🚒 by night and sometimes day too.
 
 ### 🧰 What I Do
 - 🏗️ 30+ years wrangling CAD/BIM models (AutoCAD, Revit, Navisworks, ACC, Imaginit Clarity)
@@ -16,7 +16,7 @@
 - A bit of ham and commercial radio stuff
 
 ### 🧙‍♂️ Fun Fact
-I use github for my grocery. Ok, not really, but maybe I should.  
+I use github for my grocery list. Ok, not really, but maybe I should. 🤔
 
 ---
 
